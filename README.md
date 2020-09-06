@@ -3,7 +3,7 @@
 ### 👋 WELCOME 👋
 
 ### Junior developer🏃‍♀️
-- Software Engineer at Smart Farm Company
+ Software Engineer at Smart Farm Company
 
 
   
@@ -15,11 +15,13 @@
 
 
 ### Study🙌 and Interesting🤔
-- nodejs
-- python 
-- cloud service 
-- qiskit
-
+<table>
+  
+<tr><td>nodejs</td></tr>
+<tr><td>python</td></tr> 
+<tr><td>cloud service </td></tr> 
+<tr><td>qiskit</td></tr> 
+</table>
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wwhurin&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwhurin&layout=compact&hide=j)](https://github.com/anuraghazra/github-readme-stats)
