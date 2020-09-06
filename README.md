@@ -13,7 +13,9 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=Medium&otion&logoColor=white&link=https://medium.com/@wwhurin0515)](https://medium.com/@wwhurin0515)
   
 
+<br/>
 
+<br/>
 
 
 ### Study🙌 and Interesting🤔
@@ -25,11 +27,12 @@
 <tr><td>qiskit</td></tr> 
 </table>
   
-  
-  
-  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wwhurin&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwhurin&layout=compact&hide=j)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wwhurin&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
  </div>
 <!--
