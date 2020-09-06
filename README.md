@@ -15,8 +15,6 @@
 
 <br/>
 
-<br/>
-
 
 ### Study🙌 and Interesting🤔
 <table>
@@ -27,6 +25,7 @@
 <tr><td>qiskit</td></tr> 
 </table>
   
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwhurin&layout=compact&hide=j)](https://github.com/anuraghazra/github-readme-stats)
   
