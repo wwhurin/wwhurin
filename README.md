@@ -27,7 +27,7 @@
   
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwhurin&layout=compact&hide=j)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwhurin&layout=compact&hide=java,HTML)](https://github.com/anuraghazra/github-readme-stats)
   
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wwhurin&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
