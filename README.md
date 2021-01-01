@@ -21,7 +21,6 @@
   
 <tr><td>nodejs</td></tr>
 <tr><td>python</td></tr> 
-<tr><td>cloud service </td></tr> 
 <tr><td>qiskit</td></tr> 
 </table>
   
