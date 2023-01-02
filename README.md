@@ -3,7 +3,7 @@
 ### 👋 WELCOME 👋
 
 ### Junior developer🏃‍♀️
- Software Engineer at Smart Farm Company
+ Software Engineer 
 
 
   
