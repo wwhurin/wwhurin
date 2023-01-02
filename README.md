@@ -20,8 +20,8 @@
 <table>
   
 <tr><td>nodejs</td></tr>
-<tr><td>python</td></tr> 
-<tr><td>qiskit</td></tr> 
+<tr><td>TypeScript</td></tr> 
+<tr><td>JAVA</td></tr> 
 </table>
   
 <br/>
